@@ -1,4 +1,5 @@
 const eleSquares = document.querySelector('.squares');
+let i
 
 for (let i = 0; i <= 100; i++) {
     eleSquares.innerHTML += `<div class="sq">${i}</div>`
