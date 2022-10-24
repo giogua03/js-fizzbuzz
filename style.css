@@ -33,3 +33,27 @@ h1 {
 	height: 6rem;
 	background-color: goldenrod;
 }
+.sq2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 6rem;
+	height: 6rem;
+	background-color: green;
+}
+.sq3 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 6rem;
+	height: 6rem;
+	background-color: blue;
+}
+.sq4 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 6rem;
+	height: 6rem;
+	background-color: red;
+}
